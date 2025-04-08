@@ -1,8 +1,8 @@
 {
-    "token": "MTA3MzM3NzExNzc5NjA2MTI4Ng.GmYDUd.N7BpwDZ3fSdFy58AHJQL3q6lD82ONTdGoDu2VE",
+    "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://juniornazo:<db_password>@musicmanbot.elwrb.mongodb.net/?retryWrites=true&w=majority&appName=MusicManBot",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
